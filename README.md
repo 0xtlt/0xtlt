@@ -29,6 +29,7 @@
 - 🚀 **[coolify-mcp](https://github.com/0xtlt/coolify-mcp)** — MCP server for Coolify — control apps, deployments & logs from AI agents [![npm](https://img.shields.io/npm/v/mcp-coolify?style=flat-square)](https://www.npmjs.com/package/mcp-coolify)
 - 🔄 **[coolify-apps-restarter](https://github.com/0xtlt/coolify-apps-restarter)** — Scheduled daily restart for Coolify apps
 - 🪟 **[tiler](https://github.com/0xtlt/tiler)** — Lightweight macOS window layout manager — TOML config, global hotkeys, menu bar app [![homebrew](https://img.shields.io/badge/brew-0xtlt/tap/tiler-FBB040?style=flat-square&logo=homebrew&logoColor=white)](https://github.com/0xtlt/homebrew-tap)
+- 🎨 **[tailwindcss-lsp](https://github.com/0xtlt/claude-plugins/tree/main/tailwindcss-lsp)** — Tailwind CSS LSP plugin for Claude Code
 
 ### Legacy OSS
 

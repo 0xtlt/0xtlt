@@ -22,6 +22,7 @@
 - 💰 **[Mon Conseiller Patrimoine](https://monconseillerpatrimoine.com)** — Fintech platform connecting people with certified wealth management advisors across France
 - 🎨 **[Pikumo](https://thomastastet.com)** — AI-powered image generation SaaS for content creators and marketing teams *(WIP)*
 - 📐 **[Pixel Distance](https://pixeldistance.com)** — Find your perfect screen viewing distance — calculator with AR preview
+- 🪟 **[FractalGlass Generator](https://fractalglass-generator.thomastastet.com/)** — Turn any photo into reeded glass — upload, pick a look, fine-tune & export
 
 ## Open Source
 

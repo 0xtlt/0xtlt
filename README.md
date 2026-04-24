@@ -30,6 +30,7 @@
 - 🚀 **[coolify-mcp](https://github.com/0xtlt/coolify-mcp)** — MCP server for Coolify — control apps, deployments & logs from AI agents [![npm](https://img.shields.io/npm/v/mcp-coolify?style=flat-square)](https://www.npmjs.com/package/mcp-coolify)
 - 🔄 **[coolify-apps-restarter](https://github.com/0xtlt/coolify-apps-restarter)** — Scheduled daily restart for Coolify apps
 - 🪟 **[Vitrail](https://github.com/0xtlt/vitrail)** — macOS window layout manager with global hotkeys [![release](https://img.shields.io/github/v/release/0xtlt/vitrail?style=flat-square)](https://github.com/0xtlt/vitrail/releases) [![homebrew](https://img.shields.io/badge/brew-vitrail-FBB040?style=flat-square&logo=homebrew&logoColor=white)](https://github.com/0xtlt/homebrew-tap)
+- 📎 **[Foldbar](https://github.com/0xtlt/Foldbar)** — Tiny Rust macOS menu bar utility to fold away menu bar icons
 - 🎨 **[tailwindcss-lsp](https://github.com/0xtlt/claude-plugins/tree/main/tailwindcss-lsp)** — Tailwind CSS LSP plugin for Claude Code
 
 ### Legacy OSS

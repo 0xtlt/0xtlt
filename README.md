@@ -25,6 +25,7 @@
 
 ## Open Source
 
+- 🛒 **[OpenShop](https://github.com/0xtlt/OpenShop)** — Shopify integration framework for flows, providers, scheduling, retries, logs & embedded admin UIs
 - 📊 **[umami-mcp](https://github.com/0xtlt/umami-mcp)** — MCP server for Umami analytics — query stats, manage websites & events from AI agents [![npm](https://img.shields.io/npm/v/umami-mcp?style=flat-square)](https://www.npmjs.com/package/umami-mcp)
 - 🚀 **[coolify-mcp](https://github.com/0xtlt/coolify-mcp)** — MCP server for Coolify — control apps, deployments & logs from AI agents [![npm](https://img.shields.io/npm/v/mcp-coolify?style=flat-square)](https://www.npmjs.com/package/mcp-coolify)
 - 🔄 **[coolify-apps-restarter](https://github.com/0xtlt/coolify-apps-restarter)** — Scheduled daily restart for Coolify apps

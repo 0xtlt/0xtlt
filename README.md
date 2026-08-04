@@ -25,6 +25,8 @@
 
 ## Open Source
 
+- 🔌 **[MyMCPs](https://github.com/0xtlt/MyMCPs)** — Self-hosted MCP gateway for managing servers, credentials, access tokens & analytics through one secure endpoint
+- 📄 **[md2pdf](https://github.com/0xtlt/md2pdf)** — Fast Rust Markdown-to-PDF converter with pagination, images, tables, Mermaid diagrams & syntax highlighting [![release](https://img.shields.io/github/v/release/0xtlt/md2pdf?style=flat-square)](https://github.com/0xtlt/md2pdf/releases) [![homebrew](https://img.shields.io/badge/brew-md2pdf-FBB040?style=flat-square&logo=homebrew&logoColor=white)](https://github.com/0xtlt/homebrew-tap)
 - 🛒 **[OpenShop](https://github.com/0xtlt/OpenShop)** — Shopify integration framework for flows, providers, scheduling, retries, logs & embedded admin UIs
 - 📊 **[umami-mcp](https://github.com/0xtlt/umami-mcp)** — MCP server for Umami analytics — query stats, manage websites & events from AI agents [![npm](https://img.shields.io/npm/v/umami-mcp?style=flat-square)](https://www.npmjs.com/package/umami-mcp)
 - 🚀 **[coolify-mcp](https://github.com/0xtlt/coolify-mcp)** — MCP server for Coolify — control apps, deployments & logs from AI agents [![npm](https://img.shields.io/npm/v/mcp-coolify?style=flat-square)](https://www.npmjs.com/package/mcp-coolify)

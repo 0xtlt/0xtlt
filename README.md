@@ -10,7 +10,7 @@
 ![AdonisJS](https://img.shields.io/badge/-AdonisJS-5A45FF?style=flat-square&logo=adonisjs&logoColor=white)
 ![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Codex]([https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=codex&logoColor=white))
+![Codex](https://img.shields.io/badge/-Codex-000000?style=flat-square&logo=codex&logoColor=white)
 ![Zed](https://img.shields.io/badge/-Zed-084CCF?style=flat-square&logo=zedindustries&logoColor=white)
 
 > I build products with taste. Shopify agency by day, fintech & AI tools by night.

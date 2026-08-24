@@ -26,7 +26,9 @@
 
 - 🔌 **[MyMCPs](https://github.com/0xtlt/MyMCPs)** — Self-hosted MCP gateway for managing servers, credentials, access tokens & analytics through one secure endpoint
 - 📄 **[md2pdf](https://github.com/0xtlt/md2pdf)** — Fast Rust Markdown-to-PDF converter with pagination, images, tables, Mermaid diagrams & syntax highlighting [![release](https://img.shields.io/github/v/release/0xtlt/md2pdf?style=flat-square)](https://github.com/0xtlt/md2pdf/releases) [![homebrew](https://img.shields.io/badge/brew-md2pdf-FBB040?style=flat-square&logo=homebrew&logoColor=white)](https://github.com/0xtlt/homebrew-tap)
-- 🛒 **[OpenShop](https://github.com/0xtlt/OpenShop)** — Shopify integration framework for flows, providers, scheduling, retries, logs & embedded admin UIs
+- 🛒 **[OpenShop](https://github.com/0xtlt/OpenShop)** — Shopify integration framework for flows, providers, scheduling, retries, logs & embedded admin UIs [![npm](https://img.shields.io/npm/v/openshop?style=flat-square)](https://www.npmjs.com/package/openshop)
+- 🦀 **[shopify_api](https://github.com/0xtlt/shopify_api)** — Shopify API client for Rust (18+ stars)
+- 🎵 **[auto-airplay](https://github.com/0xtlt/auto-airplay)** — Configurable Rust Bluetooth/ALSA-to-AirPlay bridge for Raspberry Pi
 - 📊 **[umami-mcp](https://github.com/0xtlt/umami-mcp)** — MCP server for Umami analytics — query stats, manage websites & events from AI agents [![npm](https://img.shields.io/npm/v/umami-mcp?style=flat-square)](https://www.npmjs.com/package/umami-mcp)
 - 🚀 **[coolify-mcp](https://github.com/0xtlt/coolify-mcp)** — MCP server for Coolify — control apps, deployments & logs from AI agents [![npm](https://img.shields.io/npm/v/mcp-coolify?style=flat-square)](https://www.npmjs.com/package/mcp-coolify)
 - 🔄 **[coolify-apps-restarter](https://github.com/0xtlt/coolify-apps-restarter)** — Scheduled daily restart for Coolify apps
@@ -38,7 +40,6 @@
 ### Legacy OSS
 
 - 📡 **[nostr_rust](https://github.com/0xtlt/nostr_rust)** — Functional Rust implementation of the Nostr protocol (62+ stars)
-- 🛒 **[shopify_api](https://github.com/0xtlt/shopify_api)** — Shopify API client for Rust (17+ stars)
 - 📱 **[n8n-nodes-qrcode](https://github.com/0xtlt/n8n-nodes-qrcode)** — QR code generation nodes for n8n (12+ stars)
 - 🖥️ **[cpanel-node](https://github.com/0xtlt/cpanel-node)** — Node.js library for the cPanel API (11+ stars)
 - ₿ **[mempool_rust](https://github.com/0xtlt/mempool_rust)** — Bitcoin Mempool client in Rust

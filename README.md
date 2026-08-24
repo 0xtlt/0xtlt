@@ -47,10 +47,10 @@
 
 ## What I'm Up To
 
-- **Scaling Blackswan** — growing the agency and shipping high-end Shopify experiences for luxury & lifestyle brands
-- **Building fintech products** — making wealth management accessible with Mon Conseiller Patrimoine
-- **Shipping side projects** — from AI image generation to developer tools, always something cooking
-- **Exploring AI tooling** — integrating Claude, LLMs, and automation into my daily workflow
+- **Building OpenShop** — an open-source framework for production Shopify apps, with typed flows, providers, background jobs & embedded admin UIs
+- **Scaling Blackswan** — shipping premium Shopify experiences for luxury & lifestyle brands
+- **Shipping Rust tools** — from Markdown-to-PDF and macOS utilities to Bluetooth/ALSA-to-AirPlay bridges
+- **Exploring agent infrastructure** — self-hosting MCPs and building AI-native developer workflows
 
 ## GitHub Activity
 

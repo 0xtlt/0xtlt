@@ -3,7 +3,6 @@
 📍 **Bordeaux, France** | 🏗️ **Founder & CTO** | 🛒 **Shopify Expert** | 🚀 **Product Builder**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -27,6 +26,8 @@
 - 🔌 **[MyMCPs](https://github.com/0xtlt/MyMCPs)** — Self-hosted MCP gateway for managing servers, credentials, access tokens & analytics through one secure endpoint
 - 📄 **[md2pdf](https://github.com/0xtlt/md2pdf)** — Fast Rust Markdown-to-PDF converter with pagination, images, tables, Mermaid diagrams & syntax highlighting [![release](https://img.shields.io/github/v/release/0xtlt/md2pdf?style=flat-square)](https://github.com/0xtlt/md2pdf/releases) [![homebrew](https://img.shields.io/badge/brew-md2pdf-FBB040?style=flat-square&logo=homebrew&logoColor=white)](https://github.com/0xtlt/homebrew-tap)
 - 🛒 **[OpenShop](https://github.com/0xtlt/OpenShop)** — Shopify integration framework for flows, providers, scheduling, retries, logs & embedded admin UIs [![npm](https://img.shields.io/npm/v/openshop?style=flat-square)](https://www.npmjs.com/package/openshop)
+- 🧪 **[Shopify Local Storefront](https://github.com/0xtlt/local-storefront)** — Unofficial local storefront for Shopify themes (not a Shopify product): renders a theme from JSON fixtures, without the Shopify API, for fast end-to-end tests
+- 📊 **[OpenSheet](https://github.com/0xtlt/opensheet)** — Open-source spreadsheet with the interface & behaviour of Microsoft Excel, written in Rust with GPUI
 - 🦀 **[shopify_api](https://github.com/0xtlt/shopify_api)** — Shopify API client for Rust (18+ stars)
 - 🎵 **[auto-airplay](https://github.com/0xtlt/auto-airplay)** — Configurable Rust Bluetooth/ALSA-to-AirPlay bridge for Raspberry Pi
 - 📊 **[umami-mcp](https://github.com/0xtlt/umami-mcp)** — MCP server for Umami analytics — query stats, manage websites & events from AI agents [![npm](https://img.shields.io/npm/v/umami-mcp?style=flat-square)](https://www.npmjs.com/package/umami-mcp)
